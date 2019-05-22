@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ALGF", ".", "{00EC1039-5A6B-4ADF-AE5F-A5B4708BE3BE}"
+	ProjectSection(WebsiteProperties) = preProject
+		Frontpage = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/KHSC"
+		Debug.AspNetCompiler.PhysicalPath = "..\ALGF\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\KHSC\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/KHSC"
+		Release.AspNetCompiler.PhysicalPath = "..\ALGF\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\KHSC\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "15678"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00EC1039-5A6B-4ADF-AE5F-A5B4708BE3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EC1039-5A6B-4ADF-AE5F-A5B4708BE3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00EC1039-5A6B-4ADF-AE5F-A5B4708BE3BE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EC1039-5A6B-4ADF-AE5F-A5B4708BE3BE}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
